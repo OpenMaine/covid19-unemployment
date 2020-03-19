@@ -9,7 +9,7 @@ to join our Slack, plus more information about OpenMaine.)
 
 <!--- Fill in the template below and click 'Submit new issue'  --->
 
-## Unemployment Insurance Eligibility Determination
+## Unemployment Eligibility Determination
 
 
 ### What problem are you trying to solve?
