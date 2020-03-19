@@ -1,6 +1,9 @@
 # covid19-unemployment
 Project to help Mainers navigate unemployment assistance
 
+Please join our Slack channel, p-covid19. (Please go to openmaine.org to find a link
+to join our Slack, plus more information about OpenMaine.)
+
 <!--- Fill in the template below and click 'Submit new issue'  --->
 
 ## Unemployment Insurance Eligibility Determination
